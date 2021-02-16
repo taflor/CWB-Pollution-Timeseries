@@ -1,0 +1,8 @@
+,Parameter Value
+changepoint_prior_scale,0.01
+changepoint_range,0.3
+seasonality_prior_scale,0.1
+holidays_prior_scale,1.0
+yearly_seasonality,5
+weekly_seasonality,15
+seasonality_mode,additive
