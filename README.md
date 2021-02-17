@@ -59,5 +59,8 @@ In a scenario when the Hong Kong government and/or HK Observatory are interested
 
 Additional holiday and date regressors would be beneficial to add should this information be known to the organization creating this model (e.g. government benchmarks and dates that could impact the pollution levels -- x percentage of marine vessels switched to low sulfur on z date).
 
-## 8. Credits
+## 8. Presentation
+[Google Slidedeck](https://docs.google.com/presentation/d/1kovJiuVgEa7FPjVpbSu9SlS3Kkb1mqP2O3tMqbE5gDk/edit?usp=sharing)
+
+## 9. Credits
 Huge shout out to Ram Hariharan for being an amazing mentor and supporting me on my data science venture. I would also like to thank the creators and contributors of [FB Prophet](https://facebook.github.io/prophet/), as well as the data scientists whose articles and code for using Facebook Prophet have greatly helped me along the way -- [Leif Arne Bakker](https://futurice.com/blog/business-forecasting-with-facebook-prophet) and [Ruan van der Merwe](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3).
